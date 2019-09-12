@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.photo {
+  padding: 10px;
+  margin: auto;
+  background-color: #8c7284;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+}
+.header-text {
+  font-family: "Righteous", cursive;
+  color: #aeb4a9;
+  background-color: #d1b1c8;
+  width: 90vw;
+  display: flex;
+  border-top-right-radius: 100%;
+  border-bottom-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.photo-img {
+  width: 90vw;
+  height: 170vh;
+}
+.desc-h2 {
+}
+.title {
+}
+.date {
+}
