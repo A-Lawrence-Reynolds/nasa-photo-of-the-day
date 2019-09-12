@@ -11,7 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-.photo {
+/* .photo {
   padding: 10px;
   margin: auto;
   background-color: #8c7284;
@@ -19,8 +19,8 @@ code {
   flex-direction: column;
   align-items: center;
   margin: auto;
-}
-.header-text {
+} */
+/* .header-text {
   font-family: "Righteous", cursive;
   color: #aeb4a9;
   background-color: #d1b1c8;
@@ -40,4 +40,4 @@ code {
 .title {
 }
 .date {
-}
+} */
